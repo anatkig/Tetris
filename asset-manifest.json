@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/tetris/static/css/main.f0a238f8.chunk.css",
+    "main.js": "/tetris/static/js/main.548f1fde.chunk.js",
+    "main.js.map": "/tetris/static/js/main.548f1fde.chunk.js.map",
+    "runtime-main.js": "/tetris/static/js/runtime-main.dadd0df9.js",
+    "runtime-main.js.map": "/tetris/static/js/runtime-main.dadd0df9.js.map",
+    "static/js/2.3eaba67b.chunk.js": "/tetris/static/js/2.3eaba67b.chunk.js",
+    "static/js/2.3eaba67b.chunk.js.map": "/tetris/static/js/2.3eaba67b.chunk.js.map",
+    "static/js/3.1177b07b.chunk.js": "/tetris/static/js/3.1177b07b.chunk.js",
+    "static/js/3.1177b07b.chunk.js.map": "/tetris/static/js/3.1177b07b.chunk.js.map",
+    "index.html": "/tetris/index.html",
+    "static/css/main.f0a238f8.chunk.css.map": "/tetris/static/css/main.f0a238f8.chunk.css.map",
+    "static/js/2.3eaba67b.chunk.js.LICENSE.txt": "/tetris/static/js/2.3eaba67b.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/tetris/static/media/Pixel-LCD-7.63d9c151.woff",
+    "static/media/bg.d63cfd51.png": "/tetris/static/media/bg.d63cfd51.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dadd0df9.js",
+    "static/js/2.3eaba67b.chunk.js",
+    "static/css/main.f0a238f8.chunk.css",
+    "static/js/main.548f1fde.chunk.js"
+  ]
+}
